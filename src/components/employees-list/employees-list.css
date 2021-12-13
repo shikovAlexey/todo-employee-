@@ -1,0 +1,15 @@
+.app-list {
+    margin-top: 30px;
+    background-color: #3d5a80;
+    border-radius: 4px;
+    box-shadow: 15px 15px 30px rgba(0,0,0, .15);
+    color: #fff;
+}
+
+.add-employees {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    color: rgb(114, 114, 114);
+} 
