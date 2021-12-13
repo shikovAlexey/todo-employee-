@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Todolist(employees)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+В приложении реализован поиск, добавление, удаление, фильтр сотрудников.
+
+# Технологии
+
+html, css, bootstrap, js, react
 
 ## Available Scripts
 
